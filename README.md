@@ -1,16 +1,22 @@
-### Hi there 👋
+## 😁 I'm glad you're here
+
+### Lately I'm learning:
+- [Sanity.io](https://www.sanity.io/docs) ⚗
+- [Gatsby](https://www.gatsbyjs.org/) 🦄
+- [Lerna](https://lerna.js.org/) ⚧
+- [Apollo](https://www.apollographql.com/docs) 🌱
+
+### I’m currently accepting contracts with [Atmanautica](https://www.atmanautica.com) 👁
+- Ask me for help with your web apps, sites, experiences 💬
+- How to reach me: [kerry@atmanaut.me](mailto:kerry@atmanaut.me) 📫
 
 <!--
 **krry/krry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: we/us/our
 - ⚡ Fun fact: ...
 -->
