@@ -6,8 +6,8 @@
 - [Lerna](https://lerna.js.org/) ⚧
 - [Apollo](https://www.apollographql.com/docs) 🌱
 
-### I’m currently accepting contracts with [Atmanautica](https://www.atmanautica.com) 👁
-- Ask me for help with your web apps, sites, experiences 💬
+### I’m currently working with [Atmanautica](https://www.atmanautica.com) 👁
+- Open to new gigs, projects. Ask me for help with your web stuff. 💬
 - How to reach me: [kerry@atmanaut.me](mailto:kerry@atmanaut.me) 📫
 
 <!--
