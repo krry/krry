@@ -1,10 +1,9 @@
 ## 😁 I'm glad you're here
 
 ### Lately I'm jamming on:
-- [React with Typescript](https://www.typescriptlang.org/docs/handbook/react.html)
-- [Hasura](https://hasura.io/)
+- [React with Typescript](https://www.typescriptlang.org/docs/handbook/react.html) 🧱
+- [Hasura](https://hasura.io/) 🕸
 - [Apollo](https://www.apollographql.com/docs) 🌱
-
 - [Sanity.io](https://www.sanity.io/docs) ⚗
 - [Gatsby](https://www.gatsbyjs.org/) 🦄
 - [Lerna](https://lerna.js.org/) ⚧
