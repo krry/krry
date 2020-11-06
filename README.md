@@ -1,13 +1,16 @@
 ## 😁 I'm glad you're here
 
-### Lately I'm learning:
+### Lately I'm jamming on:
+- [React with Typescript](https://www.typescriptlang.org/docs/handbook/react.html)
+- [Hasura](https://hasura.io/)
+- [Apollo](https://www.apollographql.com/docs) 🌱
+
 - [Sanity.io](https://www.sanity.io/docs) ⚗
 - [Gatsby](https://www.gatsbyjs.org/) 🦄
 - [Lerna](https://lerna.js.org/) ⚧
-- [Apollo](https://www.apollographql.com/docs) 🌱
 
 ### I’m currently working with [Atmanautica](https://www.atmanautica.com) 👁
-- Open to new gigs, projects. Ask me for help with your web stuff. 💬
+- Quite engaged with a great client. Also available to consult on your new ventures. 💬
 - How to reach me: [kerry@atmanaut.me](mailto:kerry@atmanaut.me) 📫
 
 <!--
