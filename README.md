@@ -1,8 +1,8 @@
 ## Welcome to the rest of our lives!
 
 ### Lately I'm jamming on:
-- [Easeness](easeness.biz) 🌚
-- [Nameless](nameless.atmanaut.me) ☷
+- [Easeness](https://easeness.biz) 🌚
+- [Nameless](https://nameless.atmanaut.me) ☷
 
 - I'm looking for collaborators on these and more projects. Ask me about Buenomap, that's next.
 - Also looking for gigs, so if you like this, get in touch, I'll make you something rad.
