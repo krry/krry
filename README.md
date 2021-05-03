@@ -1,13 +1,13 @@
 # 🧞👾🏕
 
 ## Lately
-- [Commonplace](https://commonplace.atmanaut.me) 📖
+- [Commonplace](https://kerrbear.wtf) 📖
 
 ## Recently
-- [Nameless](https://nameless.easeness.biz) ☷
+- [Nameless](https://nameless.quest) ☷
 - [Easeness](https://easeness.biz) 🌚
 
 ## Currently
-- [Atmanautica](https://www.atmanautica.com) 👁
+- [krry.dev](https://krry.dev) 👁
 
 Pronouns: any/all
