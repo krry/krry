@@ -2,15 +2,17 @@
 
 They call me k rry
 
+## Currently
+- [Kerrbe.ar](https://kerrbe.ar)
+
 ## Lately
-- [Commonplace](https://kerrbear.wtf) 📖
+- [TalkSocial](https://talk.social)
+- [krry.dev](https://krry.dev) 👁
 
 ## Recently
 - [Nameless](https://nameless.quest) ☷
 - [Easeness](https://easeness.biz) 🌚
-
-## Currently
-- [krry.dev](https://krry.dev) 👁
+- [Commonplace](https://kerrbear.wtf) 📖
 
 Pronouns: any/all
 
