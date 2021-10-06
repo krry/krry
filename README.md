@@ -4,9 +4,9 @@ They call me k rry
 
 ## Currently
 - [Kerrbe.ar](https://kerrbe.ar)
+- [TalkSocial](https://talk.social)
 
 ## Lately
-- [TalkSocial](https://talk.social)
 - [krry.dev](https://krry.dev) 👁
 
 ## Recently
