@@ -3,8 +3,8 @@
 They call me k rry
 
 ## Currently
+- [fullsmile](https://fullsmile.world)
 - [Kerrbe.ar](https://kerrbe.ar)
-- [TalkSocial](https://talk.social)
 
 ## Lately
 - [krry.dev](https://krry.dev) 👁
@@ -13,6 +13,7 @@ They call me k rry
 - [Nameless](https://nameless.quest) ☷
 - [Easeness](https://easeness.biz) 🌚
 - [Commonplace](https://kerrbear.wtf) 📖
+- [TalkSocial](https://talk.social)
 
 Pronouns: any/all
 
