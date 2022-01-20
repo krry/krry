@@ -1,6 +1,6 @@
 # 🧞👾🏕
 
-They call me k rry
+They call me k_rry
 
 ## Currently
 - [fullsmile](https://fullsmile.world)
