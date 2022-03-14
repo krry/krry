@@ -5,16 +5,15 @@ They call me k_rry
 ## Currently
 - [Tiny Health](https://tinyhealth.com)
 
-## Lately
-- [fullsmile](https://fullsmile.world)
+## Roles
 - [Kerrbe.ar](https://kerrbe.ar)
 - [krry.dev](https://krry.dev) 👁
 
-## Recently
+## ❤️‍🔥 Projects
+- [fullsmile](https://fullsmile.world)
 - [Nameless](https://nameless.quest) ☷
 - [Easeness](https://easeness.biz) 🌚
 - [Commonplace](https://kerrbear.wtf) 📖
-- [TalkSocial](https://talk.social)
 
 Pronouns: any/all
 
