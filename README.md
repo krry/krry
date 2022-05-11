@@ -1,16 +1,14 @@
-# 🧞👾🏕
-
-They call me k_rry
+# k🕳️rry
 
 ## Currently
-- @[Tiny Health](https://tinyhealth.com)
+- @[Tiny Health](https://tinyhealth.com) 🦠
 
 ## Roles
-- [Kerrbe.ar](https://kerrbe.ar)
+- [Kerrbe.ar](https://kerrbe.ar) 🐻‍❄️
 - [krry.dev](https://krry.dev) 👁
 
 ## ❤️‍🔥 Projects
-- [fullsmile](https://fullsmile.world)
+- [fullsmile](https://fullsmile.world) 🌈
 - [Nameless](https://nameless.quest) ☷
 - [Easeness](https://easeness.biz) 🌚
 - [Commonplace](https://kerrbear.wtf) 📖
