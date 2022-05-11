@@ -103,3 +103,5 @@ Pronouns: any/all
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=Vercel&logoColor=ffffff)
 ![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat&logo=Web3.js&logoColor=ffffff)
 ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat&logo=WebRTC&logoColor=ffffff)
+
+(And these are just the ones I use and love that have [Simple Icons](https://simpleicons.org/) 😅).
