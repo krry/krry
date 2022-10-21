@@ -53,7 +53,6 @@ Pronouns: any/all
 ![Vim](http://img.shields.io/badge/-Vim-009930?style=flat&logo=Vim&logoColor=ffffff)
 ![NeoVim](http://img.shields.io/badge/-neovim-57A143?style=flat&logo=Neovim&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=Postgresql&logoColor=ffffff)
-![Solana](https://img.shields.io/badge/dynamic/-Solana-8c4ef6?style=flat&logo=Solana&logoColor=ffffff)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-5d638b?style=flat&logo=Ethereum&logoColor=ffffff)
 ![Ruby](https://img.shields.io/badge/-Ruby-880f07?style=flat&logo=Ruby&logoColor=ffffff)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-cd0000?style=flat&logo=Rubyonrails&logoColor=ffffff)
