@@ -1,11 +1,7 @@
 # Hi, I'm k🕳️rry
 
-## Currently
-- @[Tiny Health](https://tinyhealth.com) 🦠
-
-## Roles
-- [Kerrbe.ar](https://kerrbe.ar) 🐻‍❄️
-- [krry.dev](https://krry.dev) 👁
+## Folio
+- [krry.dev](https://new.krry.dev) 👁
 
 ## ❤️‍🔥 Projects
 - [fullsmile](https://fullsmile.world) 🌈
